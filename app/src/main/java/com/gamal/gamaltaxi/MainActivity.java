@@ -82,7 +82,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void sendCall(Order order) {
-        mDatabase.child("History").push().setValue(order);
         mDatabase.child("Order").push().setValue(order);
     }
 
