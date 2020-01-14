@@ -1,3 +1,5 @@
+<img src="Gamal_Images/gamal2.jpg" width=300>
+
 Gamal-Taxi System, Android studio
 
 this system was built to help my client managing his orders.
@@ -9,4 +11,6 @@ this is what this system is about.
 his company name is ג.מ.ל מוניות thats the meaning of the apps name.
 
 app shots:
+
+<img src="Gamal_Images/Gamal1.png" width=300> <img src="Gamal_Images/Gamal2.png" width=300>
 
