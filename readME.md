@@ -31,15 +31,19 @@ the admin gets all the order as a list, as soon as the clients sends the order, 
 then he can manage the order, send the texi driver and contact the client if needed.
 
 more about the order app:
-the order app works between the wortime hours. 
+the order app works between the wortime hours.
+
 between:
+
 Sunday - Thursday : 6:00 to 22:00
+
 Friday : 7:00 to 14:00
 
 while the time is between the worktime the app is open to user and clients can make their orders.
 if the time is out to the worktime range the app closes and clients cannot make orders, also a message appear in the order page says that "we dont work now".
 
 validation:
+
 all the fiends must contain something inside of them else the order won't sent.
 
 about admins app:
@@ -54,7 +58,8 @@ app shots:
 
 the admin can also delete order to clean the orders list by long click on a specific order opens a dialog window that ask "are you sure you want to delet?" and Yes and No button.
 
-click N the order stays.
+click NO the order stays.
+
 click YES the order deleted from the orders list and also got deleted from the FireBase database system witch meant it will not show again.
 
 this is my mini system :) hope you enjoyed!
