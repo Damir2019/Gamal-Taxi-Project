@@ -49,9 +49,15 @@ any changes made automatically updates the admins app orders list.
 
 app shots:
 
+<img src="Gamal_Images/adminApp.png" width=300>
+*not real data
 
+the admin can also delete order to clean the orders list by long click on a specific order opens a dialog window that ask "are you sure you want to delet?" and Yes and No button.
 
+click N the order stays.
+click YES the order deleted from the orders list and also got deleted from the FireBase database system witch meant it will not show again.
 
+this is my mini system :) hope you enjoyed!
 
 
 
