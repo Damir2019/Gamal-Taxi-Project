@@ -24,7 +24,7 @@ this app communicates with FireBase and saves the data that has been sent to it.
 but it is only half of the way, there is an other application for admin where he can manage all the orders that sent to him.
 
 repository like:
-
+https://github.com/Damir2019/Gamal-Admin-App/tree/master
 
 the admins application get all the order the clients sends on a real time uptade connected to the FireBase system.
 the admin gets all the order as a list, as soon as the clients sends the order, it updates in FireBase database, and automatically updates admins application and add the order to him orders list.
