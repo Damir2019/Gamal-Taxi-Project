@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" color="#000000">ג.מ.ל</string>
+    <string name="daparture">כתובת איסוף</string>
+    <string name="level3">כתובת סיום :</string>
+    <string name="numberPatient">מספר נייד</string>
+    <string name="orderAccepted">הנכם מתבקשים להימצא\n בנקודת האיסוף עד 5 דקות מרגע ההזמנה</string>
+    <string name="GTaxi">GTaxi</string>
+    <string name="back">חזרה</string>
+    <string name="plain">א.ת צפוני, א.ת דרומי ומתחם הרכבת.</string>
+    <string name="notwork">לא עובדים כרגע</string>
+    <string name="plain2">לא נכלל בשירות ההזמנה:</string>
+    <string name="clientNumber">מספר לקוח :</string>
+    <string name="departure">כתובת התחלה :</string>
+    <string name="phone">מספר נייד</string>
+    <string name="firstplace">כתובת איסוף</string>
+    <string name="order">הזמנה!</string>
+    <string name="gamal">gamal</string>
+    <string name="termsOfUse">תנאי שימוש</string>
+    <string name="terms">תנאי השימוש באפליקציה:</string>
+    <string name="theTerms">האפליקציה אינה משתמשת בגלאי מיקום gps. \n\nכל ההזמנות אינן נשמרות באפליקציה או במכשיר הנייד. \n\nההזמנון מועברות באופן מאובטח אל מנהל ההזמנות על מנת לבצע את השירות המיועד. \n\nכל ההזמנות מנוהלות באופן ידני על ידי מנהל ההזמנות. \n\nהחברה אינה תבצע הפצה של ההזמנות לאף גורם שהוא לא החברה ולא תשמתמש בהזמנות באופן הנוגד את הייעוד של אפליקציה זו שהינה הזמנה של מונית בלבד. \n\nאם במידה ונגרם נזק לרחוש, פגיעה ושימוש באלימות מצד הלקוח כלפי נותני השירות, תראה לנכון החברה להשתמש במידע כהוכחה לביצוע ההזמנה וזאת במידת הצורך. \n\nעם שימוש באפליקציה זו הנכם מאשרים את תנאי השימוש הרשומים מעלה</string>
+</resources>
