@@ -56,6 +56,8 @@ app shots:
 <img src="Gamal_Images/adminApp.png" width=300>
 *not real data
 
+
+
 the admin can also delete order to clean the orders list by long click on a specific order opens a dialog window that ask "are you sure you want to delet?" and Yes and No button.
 
 click NO the order stays.
